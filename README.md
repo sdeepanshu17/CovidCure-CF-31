@@ -22,8 +22,24 @@ This app mainly focuses on four key features
 - Number of cases
   - Select the city you want to travel to
   - It shows the number of active case and tells how likely you can get infected
-  
-   
+- Medical assistance
+  - E appointment with doctor
 
+# Setup
+We have used different python modules and driver. To install them, follow the steps given below.
+1) Open cmd and 
+
+- For PIL, type the following command <br/>
+``` pip install Pillow ``` <br/>
+
+- For requests module, type the following command <br/>
+``` pip install requests ``` <br/>
+
+- For MySQL connector driver, type the following command <br/>
+``` python -m pip install mysql-connector-python ``` <br/>
+
+2) Download the .zip file of the app and select main.py
+
+3) Open the main.py and run it.
 
 
